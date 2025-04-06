@@ -67,7 +67,7 @@ Naciśnij przycisk [[javascript:highlightAndClick(".next-page")]["dalej"]] lub `
 #appengine: By uruchomić go lokalnie, będziesz musiał najpierw
 #appengine: [[https://golang.org/doc/install][zainstalować Go]], a następnie wykonać komendę:
 #appengine:
-#appengine:   go get golang.org/x/tour
+#appengine:   go install golang.org/x/website/tour@latest
 #appengine:
 #appengine: Po uruchomieniu powyższej komendy, Przewodnik po Go zostanie pobrana i umieszczona w folderze
 #appengine: [[https://golang.org/doc/code.html#Workspaces][workspace]] /`bin`.
